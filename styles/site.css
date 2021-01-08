@@ -46,11 +46,11 @@ body, html
 
 
 .carousel-control-prev{
-	padding: 0 0 0 0;
+	padding: 0 px, 0 px, 0 px, 0 px;
 	position: fixed;
 }
 
 .carousel-control-next{
-	padding: 0 0 0 0;
+	padding: 0 px, 0 px, 0 px, 0 px;
 	position: fixed;
 }
