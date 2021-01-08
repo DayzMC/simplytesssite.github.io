@@ -1,2 +1,1 @@
-# simplytesssite.github.io
-default
+# Quiz on JS
